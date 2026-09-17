@@ -2,7 +2,7 @@
 
 Este es un proyecto académico de práctica desarrollado en NestJS para la gestión de una API REST. En este repositorio se implementan las operaciones CRUD (Crear, Leer, Actualizar y Eliminar) completas, utilizando arreglos en memoria como base de datos de prueba.
 
-## 🚀 Características del Proyecto
+## Características del Proyecto
 
 El proyecto está estructurado en dos controladores principales que manejan toda la lógica de negocio y enrutamiento:
 
@@ -26,12 +26,12 @@ Gestiona el inventario de una tienda (precios manejados en COP). Incluye rutas e
 * **PUT** `/productos/:id`: Actualiza la información de un producto (ideal para modificar precios o reabastecer stock).
 * **DELETE** `/productos/:id`: Elimina un producto del sistema.
 
-## 🛠️ Tecnologías y Herramientas Utilizadas
+## Tecnologías y Herramientas Utilizadas
 * **Framework:** NestJS (TypeScript)
 * **Testing de API:** Postman (Implementación de variables de entorno para aislar host y puerto).
 * **Control de Versiones:** Git y GitHub.
 
-## ⚙️ Cómo ejecutar este proyecto localmente
+## Cómo ejecutar este proyecto localmente
 
 1. Clonar este repositorio en tu máquina local.
 2. Abrir la terminal en la raíz del proyecto e instalar las dependencias necesarias:
